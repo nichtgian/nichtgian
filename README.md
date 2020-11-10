@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="logo" src="res/logo.svg" />
+<img align="left" height="170" alt="logo" src="res/logo.svg" />
 
 # :grey_question: About me
 **Gian Ott<br>**
