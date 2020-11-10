@@ -4,7 +4,7 @@
 **Gian Ott<br>**
 Software Development<br>
 :earth_africa: Zürich, Switzerland<br>
-:busts_in_silhouette: :watch: :game_die: 
+:busts_in_silhouette: :watch: :game_die: :soccer:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
