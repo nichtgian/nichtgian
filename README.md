@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" alt="Tint logo" src="res/logo.svg" />
+<img align="left" width="180" height="180" alt="logo" src="res/logo.svg" />
 
 # About me
 Gian Ott<br>
