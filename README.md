@@ -3,7 +3,7 @@
 # :grey_question: About me
 **Gian Ott<br>**
 Software Development<br>
-:earth_africa: Zürich, Switzerland<br>
+:earth_africa: Zürich, Switzerland :switzerland:<br>
 :busts_in_silhouette: :watch: :game_die: :soccer:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
