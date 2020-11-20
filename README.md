@@ -22,7 +22,7 @@ Software Development<br>
 
 ## Job and education
 :computer:
-**IT** Komax AG
+**Application Support Engineer** Komax AG
 2020 - now
 
 :books:
