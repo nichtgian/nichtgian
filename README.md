@@ -6,19 +6,20 @@ Software Development<br>
 :earth_africa: Zürich, Switzerland :switzerland:<br>
 :busts_in_silhouette: :watch: :game_die: :swimmer: :video_game: :blue_book: :computer:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
-![.NET](https://img.shields.io/badge/-.NET-000?style=flat-square&logo=.net)
+![Badge](https://img.shields.io/badge/-TypeScript-000a12?style=for-the-badge&logo=typescript&logoColor=white)
+![Badge](https://img.shields.io/badge/-Node.js-263238?style=for-the-badge&logo=node.js&logoColor=white)
+![Badge](https://img.shields.io/badge/-.NET-37474f?style=for-the-badge&logo=.net&logoColor=white)
+![Badge](https://img.shields.io/badge/-Git-546e7a?style=for-the-badge&logo=git&logoColor=white)
 <br>
-![Angular](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=angular)
-![Ionic](https://img.shields.io/badge/-Ionic-000?style=flat-square&logo=ionic)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vue.js)
-![Socket.io](https://img.shields.io/badge/-Socket.io-000?style=flat-square&logo=socket.io)
+![Badge](https://img.shields.io/badge/-Ionic-263238?style=for-the-badge&logo=ionic&logoColor=white)
+![Badge](https://img.shields.io/badge/-Vue.js-37474f?style=for-the-badge&logo=vue.js&logoColor=white)
+![Badge](https://img.shields.io/badge/-Socket.io-546e7a?style=for-the-badge&logo=socket.io&logoColor=white)
+![Badge](https://img.shields.io/badge/-Angular-90a4ae?style=for-the-badge&logo=angular&logoColor=white)
 <br>
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-![MercurialHG](https://img.shields.io/badge/-MercurialHG-000?style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-000?style=flat-square&logo=windows)
-![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?style=flat-square&logo=raspberry-pi)
+![Badge](https://img.shields.io/badge/-Mercurial_HG-455a64?style=for-the-badge&logo=mercurial&logoColor=white)
+![Badge](https://img.shields.io/badge/-NPM-546e7a?style=for-the-badge&logo=adidas&logoColor=white)
+![Badge](https://img.shields.io/badge/-CPI-90a4ae?style=for-the-badge&logo=sap&logoColor=white)
+![Badge](https://img.shields.io/badge/-Raspberry_Pi-cfd8dc?style=for-the-badge&logo=raspberry-pi&logoColor=102027)
 
 ## Job and education
 :mortar_board:
