@@ -1,5 +1,3 @@
-<img align="right" height="270" alt="logo" src="res/logo.svg" />
-
 # :grey_question: About me
 **Gian Ott<br>**
 Software Development<br>
