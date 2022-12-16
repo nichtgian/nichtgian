@@ -1,10 +1,10 @@
 # <h1 align="center"> Gian Ott </h1>
-<center>
+<div align="center">
 Software Developer<br>
 :earth_africa: Zürich, Switzerland :switzerland:<br>
 :busts_in_silhouette: :watch: :game_die: :swimmer: :video_game: :blue_book: :computer: :cat:
 
-</center>
+</div>
 
 
 ## <h2 align="center"> About me </h2>
@@ -18,51 +18,53 @@ Hey, my name is Gian Ott and I'm a Software engineer from Zürich, Switzerland. 
 
 
 ## <h2 align="center"> Skills & Experience </h2>
-<center>
+<div align="center">
 Sorted from left (best) to right (least) knowledge.
-</center>
+</div>
 
 
 ### <h3 align="center"> Languages </h3>
-<center>
+<div align="center">
 
 | [<img height="28" width="28" src="https://cdn.simpleicons.org/csharp/7f7770">](https://learn.microsoft.com/en-us/dotnet/csharp/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/javascript/7f7770">](https://www.javascript.com/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/oracle/7f7770">](https://www.java.com/en/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/c/7f7770">](https://www.learn-c.org/en/) |
 |---|---|---|---|
 
-</center>
+</div>
 
 
 ### <h3 align="center"> Frontend </h3>
-<center>
+<div align="center">
 
 | [<img height="28" width="28" src="https://cdn.simpleicons.org/angular/132539">](https://angular.io/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/html5/132539">](https://www.w3schools.com/html/html5_canvas.asp) | [<img height="28" width="28" src="https://cdn.simpleicons.org/ionic/132539">](https://ionicframework.com/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/vuedotjs/132539">](https://vuejs.org/)
 |---|---|---|---|
 
-</center>
+</div>
 
 
 ### <h3 align="center"> Web </h3>
-<center>
+<div align="center">
 
 | [<img height="28" width="28" src="https://cdn.simpleicons.org/typescript/7f7770">](https://www.typescriptlang.org/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/nodedotjs/7f7770">](https://nodejs.org/en/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/socketdotio/7f7770">](https://socket.io/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/assemblyscript/7f7770">](https://www.assemblyscript.org/) |
 |---|---|---|---|
 
-</center>
+</div>
 
 ### <h3 align="center"> Tools, Versioning etc. </h3>
-<center>
+<div align="center">
 
 | [<img height="28" width="28" src="https://cdn.simpleicons.org/git/132539">](https://git-scm.com/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/mercurial/132539">](https://www.mercurial-scm.org/) |
 |---|---|
+  
+</div>
 
 
 ### <h3 align="center"> Design </h3>
-<center>
+<div align="center">
 
 | [<img height="28" width="28" src="https://cdn.simpleicons.org/inkscape/7f7770">](https://inkscape.org/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/affinityphoto/7f7770">](https://affinity.serif.com/en-us/photo/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/blender/7f7770">](https://www.blender.org/) |
 |---|---|---|
 
-</center>
+</div>
 
 ### <h3 align="center"> Non-technical and spoken languages. </h3>
 
@@ -98,12 +100,12 @@ Sorted from left (best) to right (least) knowledge.
 
 
 ## <h2 align="center"> Social & Contact </h2>
-<center>
+<div align="center">
 
 | [<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin">](https://www.linkedin.com/in/nichtgian/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/stackoverflow">](https://stackoverflow.com/users/7156350/nichtgian?tab=profile) | [<img height="28" width="28" src="https://cdn.simpleicons.org/github">](https://github.com/Nichtgian) | [<img height="28" width="28" src="https://cdn.simpleicons.org/gmail">](mailto:nichtgian@gmail.com) | 
 |---|---|---|---|
 
-</center>
+</div>
 
 
 ---
