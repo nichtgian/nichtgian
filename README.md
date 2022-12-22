@@ -114,28 +114,27 @@ Sorted from left (best) to right (least) knowledge.
 ### <h3 align="center"> Own Work </h3>
 <div align="center">
 
-|   | Title | Description | Links |
-|---|:-----:|:------------|:-----:|
-| <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Tarin-Watchrings-NoWatches.png"> | Tarin / NoWatches / Watchrings | Watch related content including editing or creating watch designs, selling of handmade watchrings and a watch collecting app in progress. |  <p float="center"> [<img height="28" width="28" src="https://cdn.simpleicons.org/firefoxbrowser/7f7770">](https://www.watch-rings.com/) [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/132539">](https://www.instagram.com/no_watches/) </p> |
-| <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Réifier-Watches.png"> | RÉIFIER Watches | Watch microbrand currently in conceptual design phase. | [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/00060f">](https://www.instagram.com/reifierwatches/) |
+| Logo | Title | Description | Links |
+|---|-------|-------------|-------|
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Tarin-Watchrings-NoWatches.png"> | **Tarin** (NoWatches/Watchrings) | Watch related content including editing or creating watch designs, selling of handmade watchrings and a watch collecting app in progress. |  <p float="center"> [<img height="28" width="28" src="https://cdn.simpleicons.org/firefoxbrowser/7f7770">](https://www.watch-rings.com/) [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/7f7770">](https://www.instagram.com/no_watches/) </p> |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Réifier-Watches.png"> | **RÉIFIER Watches** | Watch microbrand currently in conceptual design phase. | [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/00060f">](https://www.instagram.com/reifierwatches/) |
 
 </div>
 
 ### <h3 align="center"> Collaborations </h3>
 <div align="center">
 
-|   | Title | Description | Role(s) | Links |
-|---|:-----:|:------------|:--------|:-----:|
-| <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Fulu-Crypto.png"> | Fulu | Fulu crypto automated trading platform in progress. | Dev-Team, Software-Architecture | [<img height="28" width="28" src="https://cdn.simpleicons.org/github/dbb11e">](https://github.com/FuluCrypto/) |
+| Logo | Title | Description | Role(s) | Links |
+|---|-------|-------------|---------|-------|
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Fulu-Crypto.png"> | **Fulu** | Fulu crypto automated trading platform in progress. | Dev-Team, Software-Architecture | [<img height="28" width="28" src="https://cdn.simpleicons.org/github/dbb11e">](https://github.com/FuluCrypto/) |
 
 </div>
 
 ### <h3 align="center"> Designs </h3>
 <div align="center">
 
-| <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_GO-DEV.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_A&G-Crème.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BMA_CryptoPump&Dump.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BMS_webArgn.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/Logo_GiansBarberShop.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/VA_KlimaschutzAlltag.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BBZW_Numerous.png"> | <img height="36" width="36" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BBZW_BelgradLogo.png"> |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_GO-DEV.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_A&G-Crème.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BMA_CryptoPump&Dump.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BMS_webArgn.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/Logo_GiansBarberShop.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/VA_KlimaschutzAlltag.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BBZW_Numerous.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BBZW_BelgradLogo.png"> |
 |---|---|---|---|---|---|---|---|
-
 
 </div>
 
