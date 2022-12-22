@@ -7,7 +7,7 @@ Software Developer<br>
 </div>
 
 
-## <h2 align="center"> About me </h2>
+## <h2 align="center"> **I** - About me, myself and I </h2>
 
 Hey, my name is Gian Ott and I'm a Software engineer from Zürich, Switzerland. I'm passoniate about Web Development and work on many projects in my spare time. I continuously try to improve my skills and learn new technologies.
 
@@ -16,8 +16,9 @@ Hey, my name is Gian Ott and I'm a Software engineer from Zürich, Switzerland. 
 + *only applies to IT problems
 ```
 
+---
 
-## <h2 align="center"> Skills & Experience </h2>
+## <h2 align="center"> **II** - Skills & Experience </h2>
 <div align="center">
 Sorted from left (best) to right (least) knowledge.
 </div>
@@ -66,13 +67,6 @@ Sorted from left (best) to right (least) knowledge.
 
 </div>
 
-### <h3 align="center"> Non-technical and spoken languages. </h3>
-
-| CH (:switzerland:) | DE (:de:) | EN (:gb:) | FR (:fr:) |
-|:---:|:---:|:---:|:---:|
-| Swiss German | Standard German | English | French | 
-| Native | Proficient knowledge. | High communication knowledge and proficient technical terminology. | Basic knowledge and still learning. |
-
 
 ### <h3 align="center"> What I want to learn or improve. </h3>
 
@@ -87,7 +81,7 @@ Sorted from left (best) to right (least) knowledge.
 ```
 
 
-## <h2 align="center"> Jobs & Education </h2>
+## <h2 align="center"> **III** - Jobs & Education </h2>
 
 |   | Title | Institution | Description | Location | Date |
 |---|:-----:|:-----------:|:------------|:---------|:----:|
@@ -99,18 +93,15 @@ Sorted from left (best) to right (least) knowledge.
 | :books: | **Apprenticeship Software Development** | [Komax AG](https://www.komaxgroup.com) | Apprenticeship in computer science specializing in application development : C#, JavaScript | 6036 Dierikon, Lucerne | _2016 - 2020_ |
 
 
-## <h2 align="center"> Social & Contact </h2>
-<div align="center">
+### <h3 align="center"> Non-technical and spoken languages. </h3>
 
-| [<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin">](https://www.linkedin.com/in/nichtgian/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/stackoverflow">](https://stackoverflow.com/users/7156350/nichtgian?tab=profile) | [<img height="28" width="28" src="https://cdn.simpleicons.org/github">](https://github.com/Nichtgian) | [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram">](https://www.instagram.com/gian.ott/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/gmail">](mailto:nichtgian@gmail.com) | 
-|---|---|---|---|---|
-
-</div>
-
+| CH (:switzerland:) - Swiss German | DE (:de:) - Standard German | EN (:gb:) - English | FR (:fr:) - French |
+|:---:|:---:|:---:|:---:|
+| Native | Proficient knowledge. | High communication knowledge and proficient technical terminology. | Basic knowledge and still learning. |
 
 ---
 
-## <h2 align="center"> Projects </h2>
+## <h2 align="center"> **IV** - Projects </h2>
 ### <h3 align="center"> Own Work </h3>
 <div align="center">
 
@@ -138,7 +129,15 @@ Sorted from left (best) to right (least) knowledge.
 
 </div>
 
+---
 
+## <h2 align="center"> **V** - Social & Contact </h2>
+<div align="center">
+
+| [<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin">](https://www.linkedin.com/in/nichtgian/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/stackoverflow">](https://stackoverflow.com/users/7156350/nichtgian?tab=profile) | [<img height="28" width="28" src="https://cdn.simpleicons.org/github">](https://github.com/Nichtgian) | [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram">](https://www.instagram.com/gian.ott/) | [<img height="28" width="28" src="https://cdn.simpleicons.org/gmail">](mailto:nichtgian@gmail.com) | 
+|---|---|---|---|---|
+
+</div>
 ---
 
 [^1]: Last edited: 22.12.2022
