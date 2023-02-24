@@ -115,8 +115,8 @@ Sorted from left (best) to right (least) knowledge.
 
 | Logo | Title | Description | Links |
 |---|-------|-------------|-------|
-| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Tarin-Watchrings-NoWatches.png"> | **Tarin** (NoWatches/Watchrings) | Watch related content including editing or creating watch designs, selling of handmade watchrings and a watch collecting app in progress. |  <p float="center"> [<img height="28" width="28" src="https://cdn.simpleicons.org/firefoxbrowser/7f7770">](https://www.watch-rings.com/) [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/7f7770">](https://www.instagram.com/no_watches/) </p> |
-| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Réifier-Watches.png"> | **RÉIFIER Watches** | Watch microbrand currently in conceptual design phase. | [<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/00060f">](https://www.instagram.com/reifierwatches/) |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Tarin-Watchrings-NoWatches.png"> | **Tarin** (NoWatches/Watchrings) | Watch related content including editing or creating watch designs, selling of handmade watchrings and a watch collecting app in progress. |  <p float="center">[<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/7f7770">](https://www.instagram.com/no_watches/)</p> |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/Logo_Réifier-Watches.png"> | **RÉIFIER Watches** | Watch microbrand currently in conceptual design phase. | [<img height="28" width="28" src="https://cdn.simpleicons.org/firefoxbrowser/00060f">](https://www.réifier.com/)[<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/00060f">](https://www.instagram.com/reifierwatches/) |
 
 </div>
 
