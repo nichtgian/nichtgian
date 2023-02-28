@@ -53,6 +53,10 @@ Sorted from left (best) to right (least) knowledge.
 
 </div>
 
+<details>
+<summary>Show more Skills</summary>
+
+
 ### <h3 align="center"> Tools, Versioning etc. </h3>
 <div align="center">
 
@@ -83,6 +87,7 @@ Sorted from left (best) to right (least) knowledge.
 }
 ```
 
+</details>
 
 <br>
 
