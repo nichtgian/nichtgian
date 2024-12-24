@@ -29,7 +29,7 @@ Hey, I'm Gian, a software engineer from Zürich, Switzerland. I'm passoniate abo
 ### <h3 align="center"> Frontend </h3>
 <div align="center">
 
-| [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">](https://angular.dev/overview) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg">](https://svelte.dev/docs/svelte/overview) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">](https://developer.android.com/compose) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">](https://docs.docker.com/engine/)
+| [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">](https://angular.dev/overview) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg">](https://svelte.dev/docs/svelte/overview) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">](https://developer.android.com/compose) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">](https://vuejs.org/)
 |---|---|---|---|
 
 </div>
@@ -37,13 +37,13 @@ Hey, I'm Gian, a software engineer from Zürich, Switzerland. I'm passoniate abo
 ### <h3 align="center"> Libraries & other Frameworks </h3>
 <div align="center">
 
-| [<img height="28" width="28" src="https://objectcomputing.com/files/9316/2275/4423/micronaut_stacked_white.svg">](https://docs.micronaut.io/index.html) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">](https://nodejs.org/en/) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg">](https://socket.io/) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg">](https://www.assemblyscript.org/) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">](https://vuejs.org/) | 
+| [<img height="28" width="28" src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg">](https://docs.micronaut.io/index.html) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">](https://nodejs.org/en/) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg">](https://socket.io/) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg">](https://www.assemblyscript.org/) | [<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">](https://docs.docker.com/engine/) | 
 |---|---|---|---|---|
 
 </div>
 
 <details>
-<summary>Show more Skills</summary>
+<summary>Show more...</summary>
 
 ### <h3 align="center"> Design </h3>
 <div align="center">
