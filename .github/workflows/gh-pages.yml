@@ -19,7 +19,6 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
           doc/website.md
-    - run: cp ./doc/images ./dist/doc/images/
     - uses: actions/upload-pages-artifact@v3
       with:
         path: dist
