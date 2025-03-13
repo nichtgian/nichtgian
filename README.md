@@ -97,15 +97,15 @@ Hey, I'm Gian, a software engineer from Zürich, Switzerland. I'm passoniate abo
 
 |   | Title | Description |  Role(s) | Links |
 |---|-------|-------------|----------|-------|
-| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/reifier.png"> | **RÉIFIER Watches** | Watch microbrand currently in conceptual design phase. | Founder | [<img height="28" width="28" src="https://cdn.simpleicons.org/googlechrome/00060f">](https://www.réifier.com/)[<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/00060f">](https://www.instagram.com/reifierwatches/)[<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">](https://www.instagram.com/reifierwatches/](https://www.linkedin.com/company/r%C3%A9ifier))[<img height="28" width="28" src="https://cdn.simpleicons.org/github/00060f">](https://github.com/reifierwatches) |
-| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/fulu.png"> | **Fulu** | Fulu crypto automated trading platform in progress. | Dev-Team, Software-Architecture | [<img height="28" width="28" src="https://cdn.simpleicons.org/github/dbb11e">](https://github.com/FuluCrypto/) 
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/logos/reifier.png"> | **RÉIFIER Watches** | Watch microbrand currently in conceptual design phase. | Founder | [<img height="28" width="28" src="https://cdn.simpleicons.org/googlechrome/00060f">](https://www.réifier.com/)[<img height="28" width="28" src="https://cdn.simpleicons.org/instagram/00060f">](https://www.instagram.com/reifierwatches/)[<img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">](https://www.instagram.com/reifierwatches/](https://www.linkedin.com/company/r%C3%A9ifier))[<img height="28" width="28" src="https://cdn.simpleicons.org/github/00060f">](https://github.com/reifierwatches) |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/logos/fulu.png"> | **Fulu** | Fulu crypto automated trading platform in progress. | Dev-Team, Software-Architecture | [<img height="28" width="28" src="https://cdn.simpleicons.org/github/dbb11e">](https://github.com/FuluCrypto/) 
 
 </div>
 
 ### <h3 align="center"> Designs </h3>
 <div align="center">
 
-| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/logos/tarin.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BMA-crypto.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BMS-webArgn.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/barber.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/VA-tree.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/BBZW-numerous.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/HSLU-pta.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/src/designs/HSLU-wipro.png"> |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/logos/tarin.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/BMA-crypto.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/BMS-webArgn.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/barber.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/VA-tree.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/BBZW-numerous.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/HSLU-pta.png"> | <img height="32" width="32" src="https://raw.githubusercontent.com/Nichtgian/Nichtgian/main/doc/images/designs/HSLU-wipro.png"> |
 |---|---|---|---|---|---|---|---|
 
 </div>
@@ -119,4 +119,134 @@ Hey, I'm Gian, a software engineer from Zürich, Switzerland. I'm passoniate abo
 
 </div>
 
-[^1]: Last edited: 24.12.2024
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          8.53,
+          47.39
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              8.0,
+              47.45
+            ],
+            [
+              8.0,
+              47.15
+            ],
+            [
+              8.08,
+              47.15
+            ],
+            [
+              8.08,
+              47.45
+            ],
+            [
+              8.0,
+              47.45
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              8.29,
+              47.45
+            ],
+            [
+              8.29,
+              47.15
+            ],
+            [
+              8.37,
+              47.15
+            ],
+            [
+              8.37,
+              47.45
+            ],
+            [
+              8.29,
+              47.45
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              8.49,
+              47.32
+            ],
+            [
+              8.49,
+              47.15
+            ],
+            [
+              8.57,
+              47.15
+            ],
+            [
+              8.57,
+              47.32
+            ],
+            [
+              8.49,
+              47.32
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            8.10,
+            47.32
+          ],
+          [
+            8.27,
+            47.32
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
+```
+
+[^1]: Last edited: 13.03.2025
