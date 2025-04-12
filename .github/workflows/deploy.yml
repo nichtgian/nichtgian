@@ -9,7 +9,7 @@ on:
 env:
     DENO_VERSION: v2.x
     BUILD_PATH: build
-    BASE_PATH: /${{ github.event.repository.name }}
+    BASE_PATH: '/${{ github.event.repository.name }}'
 
 permissions:
     contents: write
