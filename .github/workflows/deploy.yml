@@ -20,24 +20,27 @@ jobs:
         concurrency: ci-${{ github.ref }}
 
         steps:
-            - name: Checkout repository 📁
+            - name: '[📁] Checkout repository'
               uses: actions/checkout@v4
 
-            - name: Install Deno 🔧
+            - name: '[🔧] Install Deno'
               uses: denoland/setup-deno@v2
               with:
                   deno-version: ${{ env.DENO_VERSION }}
 
-            - name: Formatting 📝
+            - name: '[🔧] Install dependencies'
+              run: deno install
+
+            - name: '[📝] Formatting'
               run: deno fmt --check
 
-            - name: Linting 🔎
+            - name: '[🔎] Linting'
               run: deno lint
 
-            - name: Build step 🧪
+            - name: '[🧪] Build step'
               run: deno task build
 
-            - name: Deploy 🚀
+            - name: '[🚀] Deploy'
               uses: JamesIves/github-pages-deploy-action@v4
               with:
                   folder: ${{ env.BUILD_PATH }}
