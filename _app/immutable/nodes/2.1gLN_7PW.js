@@ -1,0 +1,1 @@
+import{t as o,a as r}from"../chunks/CLa7aTnq.js";import"../chunks/Co3qDb1g.js";const a=!0,c=Object.freeze(Object.defineProperty({__proto__:null,prerender:a},Symbol.toStringTag,{value:"Module"}));var n=o("<h1>Welcome to SvelteKit</h1>");function i(e){var t=n();r(e,t)}export{i as component,c as universal};
