@@ -1,0 +1,43 @@
+name: Deploy to GitHub Pages
+
+on:
+    push:
+        branches:
+            - main
+    workflow_dispatch:
+
+env:
+    DENO_VERSION: v2.x
+    BUILD_PATH: build
+    BASE_PATH: /${{ github.event.repository.name }}
+
+permissions:
+    contents: write
+
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+        concurrency: ci-${{ github.ref }}
+
+        steps:
+            - name: Checkout repository 📁
+              uses: actions/checkout@v4
+
+            - name: Install Deno 🔧
+              uses: denoland/setup-deno@v2
+              with:
+                  deno-version: ${{ env.DENO_VERSION }}
+
+            - name: Formatting 📝
+              run: deno fmt --check
+
+            - name: Linting 🔎
+              run: deno lint
+
+            - name: Build step 🧪
+              run: deno task build
+
+            - name: Deploy 🚀
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                  folder: ${{ env.BUILD_PATH }}
