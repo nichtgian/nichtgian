@@ -40,7 +40,7 @@
             {#each locales as locale}
                 {#if locale !== getLocale()}
                     <DropdownItem data-sveltekit-reload href={localizeHref(page.url.pathname, { locale })}>
-                        {m['i18n.long']({}, {locale: locale})} ({locale})
+                        {m['i18n.long']({}, { locale: locale })} ({locale})
                     </DropdownItem>
                 {/if}
             {/each}
