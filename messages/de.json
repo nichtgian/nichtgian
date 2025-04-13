@@ -1,4 +1,11 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
-    "hello_world": "Hello, {name} from de!"
+
+    "i18n.short": "DE",
+    "i18n.long": "Deutsch",
+    "i18n.language-level": "Fliessend",
+
+    "nav.home": "Über mich",
+    "nav.cv": "Lebenslauf"
+
 }

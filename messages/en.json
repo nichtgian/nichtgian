@@ -1,4 +1,16 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
-    "hello_world": "Hello, {name} from en!"
+
+    "i18n.short": "EN",
+    "i18n.long": "English",
+    "i18n.language-level": "Proficient (technical terminology)",
+
+    "nav.home": "About me",
+    "nav.cv": "CV",
+
+    "home.hello-section.title": "Hello, I'm Gian Ott.",
+    "home.hello-section.subtitle-primary": "A Software Developer",
+    "home.hello-section.subtitle-secondary": "based in Switzerland.",
+    "home.hello-section.description": "We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.",
+    "home.hello-section.motto": "We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick."
 }
