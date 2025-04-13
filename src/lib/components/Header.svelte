@@ -24,12 +24,12 @@
 </script>
 
 <Navbar class="bg-primary-100 dark:bg-primary-700">
-    <NavBrand href="/">
+    <NavBrand href={localizeHref('/')}>
         <img src={logo} class="me-3 h-6 sm:h-9" alt="Nichtgian Logo" />
     </NavBrand>
 
     <div class="flex md:order-2">
-        <Button outline class="cursor-pointer">
+        <Button outline color="secondary" class="cursor-pointer">
             {m['i18n.short']()} <GlobeOutline class="ms-2 inline h-6 w-6" />
         </Button>
         <Dropdown simple>
@@ -53,8 +53,8 @@
         <NavLi href={localizeHref('/')}>
             {m['nav.home']()}
         </NavLi>
-        <NavLi href={localizeHref('/cv')}>
-            {m['nav.cv']()}
+        <NavLi href={localizeHref('/resume')}>
+            {m['nav.resume']()}
         </NavLi>
     </NavUl>
 </Navbar>
